@@ -131,16 +131,3 @@ These differ from numbers in an earlier manuscript draft and must be reconciled
 before submission. These counts describe signal-label relationships, not confirmed
 physiological response differences.
 
-## Citation in the manuscript
-
-The repository URL for the manuscript is:
-
-```latex
-Code used to generate Figure~\ref{fig:eda}, Figure~\ref{fig:temporal-differences},
-and the transition plots in the appendix is available at
-\url{https://github.com/smajidhosseini/stress-detection-challenges}.
-The scripts operate on prepared dataset exports; required file formats and
-analysis assumptions are documented in the repository.
-```
-
-For a stable submission record, cite the specific commit or an archived release.
